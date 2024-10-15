@@ -1,4 +1,4 @@
-# [Knowledge based chatbot](https://kalebujordan.dev/)
+# Knowledge based chatbot
 
 This a cross-platform desktop app built with [tkinter] which simply acts like a dictionary chatbot, you can send it a message and it will return a response on what it thinks the message is by fetching it in a very large dictionary.
 
@@ -7,9 +7,9 @@ This a cross-platform desktop app built with [tkinter] which simply acts like a 
 To get started with this app, you might have to clone or download the repository first;
 
 ```bash
-git clone https://github.com/PraveenPrz/Iris_Chatbot_App
-cd Iris_Chatbot_App
-Iris_Chatbot_App->
+git clone https://github.com/PabloMazurkiewicz/Python-Chatbot-App.git
+cd Python-Chatbot-App
+Python-Chatbot-App->
 ```
 
 ## Dependencies
